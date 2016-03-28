@@ -116,4 +116,6 @@
 	// init include script class
 	if( !is_admin() ){ new gdlr_include_script(); }	
 	
+	// revision
+	include_once(get_template_directory() . '/gdlr-revision.php');
 ?>

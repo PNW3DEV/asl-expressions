@@ -26,7 +26,7 @@ if( !function_exists('gdlr_register_required_plugins') ){
 			array(
 				'name'     				=> 'Goodlayers LMS',
 				'slug'     				=> 'goodlayers-lms', 
-				'version'               => '1.2.2',
+				'version'               => '2.0.4',
 				'source'   				=> GDLR_LOCAL_PATH . '/include/plugin/plugins/goodlayers-lms.zip',
 				'required' 				=> true,
 				'force_activation' 		=> false,

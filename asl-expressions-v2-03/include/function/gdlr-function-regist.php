@@ -97,6 +97,7 @@
 			}
 		}
 	}
+	
 	// for printing default admin option
 	// print_r( get_option('gdlr_sidebar_name', array()) );
 	
